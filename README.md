@@ -15,4 +15,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
+[x] Official ChatGPT Prompt Engineering Guide From OpenAI
+[ ] 2024's Guide to Mastering Prompt Engineering
+[ ] Meta Reveals 7 Prompt Techniques You Need To Know
 ```
